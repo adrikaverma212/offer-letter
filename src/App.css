@@ -1,0 +1,86 @@
+/* src/App.css */
+/* .background-container{
+  border: 2px solid red;
+  width: 50%;
+  height: 100vh;
+  justify-content: center;
+  /* text-align: center; */
+/* src/App.css */
+
+  /* Ensure AA.png is in the public folder */
+  .background-container {
+    width: 50%;
+   
+   
+   
+   
+  }
+
+.content {
+  background-color: rgba(255, 255, 255, 0.85); 
+  padding: 30px;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 800px;                
+  text-align: left;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 50px;
+  color: #0033a0;                  
+  /* margin-bottom: 20px; */
+  justify-content: center;
+  text-align: center;
+}
+
+p {
+  font-size: 16px;
+  color: #333;                    
+}
+
+.details {
+  margin-top: 20px;
+  display: flex;
+ gap: 500px;
+}
+
+.details h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.recipient {
+  margin-top: 60px;
+}
+
+.recipient h2 {
+  font-size: 22px;
+  margin-bottom: 10px;
+}
+
+.signature-section {
+  margin-top: 40px;
+  text-align:left;
+ display: flex;
+  margin-right: 530px;
+  gap: 480px;
+}
+.signature-section img{
+  width: 150px; 
+  height:130px;
+  
+}
+.logo img{
+  width: 150px; 
+  height:130px;
+  margin-left: 330px;
+}
+.gg{
+  width: 150px; 
+  height:130px;
+ margin-bottom: 250px;
+margin-left: 230px;
+}
+
+
